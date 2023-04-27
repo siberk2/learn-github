@@ -4,4 +4,4 @@ Some text that i wrote!
 
 ## SubHeader
 
-Hi
+Open index.html in your browser
